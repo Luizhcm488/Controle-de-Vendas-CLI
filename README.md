@@ -29,7 +29,6 @@ O projeto foi criado inicialmente como uma aplicação de terminal e posteriorme
 
 ## Estrutura do projeto
 
-```text
 Controle-de-Vendas-CLI/
 ├── main.py
 ├── funcoes.py
@@ -40,7 +39,7 @@ Controle-de-Vendas-CLI/
 Como executar
 
 Clone o repositório:
-git clone git@github.com:candeany/Controle-de-Vendas-CLI.git
+git clone git@github.com:Luizhcm488/Controle-de-Vendas-CLI.git
 
 Entre na pasta:
 cd Controle-de-Vendas-CLI
